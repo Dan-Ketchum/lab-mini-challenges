@@ -1,0 +1,25 @@
+.nickel {
+  background-color: red;
+  color: white;
+  height: 70px;
+  width: 70px;
+  border-radius: 90px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: middle;
+  display: flex;
+} 
+
+/* .light {
+  color: white;
+  background-color: black;
+  height: 30px;
+  text-align: center;
+  padding: 10px;
+}
+
+.lit {
+  background-color: yellow;
+  color: black;
+}
